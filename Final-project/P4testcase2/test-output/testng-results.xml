@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="204062" started-at="2022-02-21T10:34:50 IST" finished-at="2022-02-21T10:38:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="204062" started-at="2022-02-21T10:34:50 IST" finished-at="2022-02-21T10:38:14 IST">
+      <class name="Bigbasket.project4.Testcase2">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Bigbasket.project4.Testcase2@307f6b8c]" name="beforeTest" is-config="true" duration-ms="5301" started-at="2022-02-21T10:34:50 IST" finished-at="2022-02-21T10:34:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestCase()[pri:0, instance:Bigbasket.project4.Testcase2@307f6b8c]" name="TestCase" duration-ms="190818" started-at="2022-02-21T10:34:55 IST" finished-at="2022-02-21T10:38:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase -->
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:Bigbasket.project4.Testcase2@307f6b8c]" name="TestCase1" duration-ms="1644" started-at="2022-02-21T10:38:06 IST" finished-at="2022-02-21T10:38:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Bigbasket.project4.Testcase2@307f6b8c]" name="afterTest" is-config="true" duration-ms="6254" started-at="2022-02-21T10:38:08 IST" finished-at="2022-02-21T10:38:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Bigbasket.project4.Testcase2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
